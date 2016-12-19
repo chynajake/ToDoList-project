@@ -25,7 +25,7 @@ SECRET_KEY = '8&$9r2%@_(&qe+wh!gbtgzne6^-#en+5w!spt@7dne+84u!jtz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://chynajake.pythonanywhere.com']
+ALLOWED_HOSTS = ['chynajake.pythonanywhere.com']
 
 
 # Application definition
